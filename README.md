@@ -15,17 +15,17 @@
 ## Table of Contents
 - [파이썬 필수문법](#파이썬-필수문법)
   - [Table of Contents](#table-of-contents)
-  - [1. Python Acvanced(1)](#1-python-acvanced1)
+  - [Python Acvanced(1)](#python-acvanced1)
     - [Variable Scope](#variable-scope)
     - [Lambda, Reduce, Map, Filter Functions](#lambda-reduce-map-filter-functions)
     - [Shallow Copy \& Deep Copy](#shallow-copy--deep-copy)
     - [Context Manager](#context-manager)
-  - [1. Python Acvanced(2)](#1-python-acvanced2)
+  - [Python Acvanced(2)](#python-acvanced2)
     - [Context Manager Annotation](#context-manager-annotation)
     - [Property(1) - Underscore](#property1---underscore)
     - [Property(2) - Getter, Setter](#property2---getter-setter)
 
-## 1. Python Acvanced(1)
+## Python Acvanced(1)
 ### Variable Scope
 > [py_ad_1_1.py](Material/SourceCode/py_ad_1_1.py "py_ad_1_1.py")
 > - [x] Scope
@@ -363,7 +363,7 @@
         # )  # Logging exception (<class 'Exception'>, Exception('Raise Exception!'), <traceback object at 0x104f5cbc0>)
     ```
 
-## 1. Python Acvanced(2)
+## Python Acvanced(2)
 ### Context Manager Annotation
 > [py_ad_2_1.py](Material/SourceCode/py_ad_2_1.py "py_ad_2_1.py")
 > - [x] Decorator 사용
